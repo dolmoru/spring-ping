@@ -15,7 +15,7 @@ public class PingController {
             model.put("some", "pong");
         } else {
             model.put("some", "Welcome to Spring");
-        }{{}/sdfsdfSdf/sdf/sdf/sdf/sdf
+        }
         return "index";
     }
 }
